@@ -11,8 +11,8 @@ struct coordinates{
 };
 
 struct directions{
-    int up; 
     int down;
+    int up; 
     int left;
     int right;
 };
