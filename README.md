@@ -12,6 +12,5 @@ Enter the coordinates of the second rectangle (upper left corner, lower right co
 
 In the event of an input error, the program must be terminated with the error message Error! It is also a mistake that the number was out of range [0; 79] or the second vertex was to the left or higher of the first vertex.
 
-Example of program operation:
+Example of program operation: 
 
-![Снимок экрана 2022-06-18 в 18 12 19](https://user-images.githubusercontent.com/92887696/174447229-a12c0ec0-cec1-473c-a6a5-5f603b1ebc55.png)
