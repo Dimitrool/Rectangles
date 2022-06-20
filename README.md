@@ -1,4 +1,4 @@
-# Task discription
+# Rectangles drawing
 
 Write a program that draws rectangles on the console using ASCII characters.
 
